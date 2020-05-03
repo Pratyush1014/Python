@@ -1,0 +1,16 @@
+1 : parenthesis ()
+2 : exponent **
+3 : unary -x +x ~x
+4 : arithmatic * / //
+5 : arithmatic + -
+6 : bitwise shifts << >>
+7 : bitwise and &
+8 : bitwise exor ^
+9 : bitwise or |
+10 : relational < > <= >= != 
+11 : compound assignment = += -= /= *= >>= <<= &= \= ^=
+12 : is isnot
+13 : in notin
+14 : not  
+15 : or
+16 : and
